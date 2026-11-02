@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 
 
-<h2 align="center">🐍 My Contributions</h2>
+<h2 align="center">Snake Shsss</h2>
 
 <picture>
   <source
