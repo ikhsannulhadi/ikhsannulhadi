@@ -2,13 +2,13 @@
 
 ### A viber gooners
 
-- 🔭 I'm currently working on **Random things**
+- 🔭 I'm currently working on **random things**
 
-- 🌱 I'm currently learning **Anything**
+- 🌱 I'm currently learning **anything**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **anything**
 
-- ⚡ Fun fact **idk**
+- ⚡ Fun fact **nothing fun about me**
 
 <div align="center">
 
