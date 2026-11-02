@@ -10,13 +10,6 @@
 
 - ⚡ Fun fact **idk**
 
-- 👨‍💻 All of my projects are available at **[https://sanyume.vercel.app/](https://sanyume.vercel.app/)**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
-
-
-
 <div align="center">
 
 <img
@@ -40,3 +33,7 @@
     src="https://raw.githubusercontent.com/ikhsannulhadi/ikhsannulhadi/output/github-snake.svg"
   />
 </picture>
+
+<p align="center">
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=java,gradle,maven,html,css,javascript,vue,git,github,vscode,idea,mysql,sqlite,vercel,cloudflare,docker,linux&width=900" alt="Languages and Technologies" />
+</p>
